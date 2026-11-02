@@ -1,6 +1,6 @@
-# Freelance . — Premium Desktop Freelance Marketplace
+# Freelance . Premium Desktop Freelance Marketplace
 
-A high-performance desktop freelance marketplace built entirely in **Java Swing** with a **modern minimalist design system** (acrylic glass effects, clean `#00B2FF` palette, and fluid typography) backed by a robust **Java 25 & Spring Boot 3** REST API.
+A high-performance desktop freelance marketplace built entirely in **Java Swing** with a **modern minimalist design system** (acrylic glass effects, clean and fluid typography) backed by a robust **Java 25 & Spring Boot 3** REST API.
 
 ---
 
